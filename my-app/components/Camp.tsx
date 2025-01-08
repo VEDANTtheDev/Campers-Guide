@@ -1,4 +1,4 @@
-import { PEOPLE_URL } from "@/constants";
+import { PEOPLE_URL } from "@/pages";
 import Image from "next/image";
 
 interface CampProps {

@@ -1,4 +1,4 @@
-import { FEATURES } from "@/constants";
+import { FEATURES } from "@/pages";
 import Image from "next/image";
 import React from "react";
 

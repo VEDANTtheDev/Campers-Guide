@@ -1,4 +1,4 @@
-import { NAV_LINKS } from "@/constants";
+import { NAV_LINKS } from "@/pages";
 import Image from "next/image";
 import Link from "next/link";
 import Button from "./Button";
